@@ -4,7 +4,7 @@
 
 source "$bundle_path/versions.zsh"
 
-export GRAILS_HOME=/usr/local/Cellar/grails/2.2.1/libexec
+export GRAILS_HOME=/usr/local/Cellar/grails/2.2.2/libexec
 
 _enumerateGrailsScripts() {
     # Default directoryies
